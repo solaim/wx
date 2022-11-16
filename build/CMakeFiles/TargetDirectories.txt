@@ -1,0 +1,3 @@
+/Users/jerry/code/cpp/wx/build/CMakeFiles/rebuild_cache.dir
+/Users/jerry/code/cpp/wx/build/CMakeFiles/edit_cache.dir
+/Users/jerry/code/cpp/wx/build/CMakeFiles/wx.dir
